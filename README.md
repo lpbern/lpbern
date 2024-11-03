@@ -1,7 +1,3 @@
-### 👋
-- 🔭 I’m currently working on wealth management platform specifically tailored for digital banking
-- 💬 Ask me about any fintech related questions, loves to brainstorm and throw ideas around
-- ⚡ Fun fact: I take my coffee iced along with a mint
 
 <!--
 **lpbern/lpbern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
